@@ -399,6 +399,8 @@ body {
   background-color: #4d5ae5;
 }
 .social-list {
+  display: flex;
+  justify-content: center;
   gap: 16px;
 }
 .social-link-icon:hover,
